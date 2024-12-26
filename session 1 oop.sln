@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "session 1 oop", "session 1 oop\session 1 oop.csproj", "{83DC9E46-3D66-43CB-8C8C-8B8BA333BB8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Session1 opp Assinment", "Session1 opp Assinment\Session1 opp Assinment.csproj", "{2DBCA490-040A-45B9-8741-D33CF784A066}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{83DC9E46-3D66-43CB-8C8C-8B8BA333BB8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83DC9E46-3D66-43CB-8C8C-8B8BA333BB8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83DC9E46-3D66-43CB-8C8C-8B8BA333BB8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DBCA490-040A-45B9-8741-D33CF784A066}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DBCA490-040A-45B9-8741-D33CF784A066}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DBCA490-040A-45B9-8741-D33CF784A066}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DBCA490-040A-45B9-8741-D33CF784A066}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
